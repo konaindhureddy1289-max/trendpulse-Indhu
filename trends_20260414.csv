@@ -1,0 +1,126 @@
+post_id,title,category,score,num_comments,author,collected_at
+47760529,DaVinci Resolve – Photo,technology,620,153,thebiblelover7,2026-04-14 16:32:33
+47762864,Backblaze has stopped backing up your data,technology,194,111,rrreese,2026-04-14 16:32:35
+47760764,A new spam policy for “back button hijacking”,worldnews,388,233,zdw,2026-04-14 16:32:36
+47755629,Someone bought 30 WordPress plugins and planted a backdoor in all of them,sports,974,269,speckx,2026-04-14 16:32:38
+47762641,Introspective Diffusion Language Models,science,56,15,zagwdt,2026-04-14 16:32:39
+47757495,GitHub Stacked PRs,entertainment,727,389,ezekg,2026-04-14 16:32:41
+47762994,Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It,worldnews,15,4,adulion,2026-04-14 16:32:42
+47761997,Distributed DuckDB Instance,sports,69,15,citguru,2026-04-14 16:32:43
+47722629,Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict,science,15,2,rfarley04,2026-04-14 16:32:45
+47759709,Lean proved this program correct; then I found a bug,entertainment,269,129,bumbledraven,2026-04-14 16:32:46
+47711148,A soft robot has no problem moving with no motor and no gears,technology,38,6,hhs,2026-04-14 16:32:48
+47762901,An AI Vibe Coding Horror Story,technology,151,131,teichmann,2026-04-14 16:32:49
+47759341,WiiFin – Jellyfin Client for Nintendo Wii,worldnews,166,71,throwawayk7h,2026-04-14 16:32:50
+47762060,The secrets of the Shinkansen,sports,92,81,WillDaSilva,2026-04-14 16:32:52
+47761625,Multi-Agentic Software Development Is a Distributed Systems Problem,technology,41,11,tie-in,2026-04-14 16:32:53
+47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,sports,425,237,m-hodges,2026-04-14 16:32:55
+47705390,Lumina – a statically typed web-native language for JavaScript and WASM,science,15,5,light_ideas,2026-04-14 16:32:56
+47718284,Design and implementation of DuckDB internals,entertainment,127,8,mpweiher,2026-04-14 16:32:57
+47761723,MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres,technology,25,3,adunk,2026-04-14 16:32:59
+47751781,US appeals court declares 158-year-old home distilling ban unconstitutional,worldnews,391,266,t-3,2026-04-14 16:33:00
+47761609,TanStack Start Now Support React Server Components,science,64,46,polywock,2026-04-14 16:33:02
+47708457,Rust Threads on the GPU,technology,79,23,PaulHoule,2026-04-14 16:33:03
+47758347,N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?,technology,74,23,mufeedvh,2026-04-14 16:33:05
+47752819,Make tmux pretty and usable (2024),entertainment,387,239,speckx,2026-04-14 16:33:06
+47728970,"Write less code, be more responsible",technology,95,57,orhunp_,2026-04-14 16:33:08
+47756321,How to make Firefox builds 17% faster,worldnews,182,34,mbitsnbites,2026-04-14 16:33:09
+47750669,Android now stops you sharing your location in photos,sports,378,298,edent,2026-04-14 16:33:10
+47716805,Anastasia (1997) live action reference material,science,29,5,hyperific,2026-04-14 16:33:12
+47729350,I just want simple S3,entertainment,189,95,g0xA52A2A,2026-04-14 16:33:13
+47753689,Building a CLI for all of Cloudflare,technology,311,100,soheilpro,2026-04-14 16:33:15
+47729046,Air Powered Segment Display? [video],technology,110,11,ProfDreamer,2026-04-14 16:33:16
+47715389,"I shipped a transaction bug, so I built a linter",worldnews,44,6,leonhfr,2026-04-14 16:33:17
+47762006,Can Claude Fly a Plane?,sports,86,83,casi,2026-04-14 16:33:19
+47743728,Tracking down a 25% Regression on LLVM RISC-V,science,119,22,luu,2026-04-14 16:33:20
+47756772,GAIA – Open-source framework for building AI agents that run on local hardware,technology,132,30,galaxyLogic,2026-04-14 16:33:22
+47715681,Repository Pattern with Hygienic Macros in Scheme – Lisp,entertainment,10,0,jjba23,2026-04-14 16:33:23
+47728823,What we learned building a Rust runtime for TypeScript,worldnews,73,12,vinhnx,2026-04-14 16:33:25
+47761310,Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024),sports,79,17,paulpauper,2026-04-14 16:33:26
+47716409,"A name is succession, legacy and celebration in Japan's Kabuki theater",science,13,2,mooreds,2026-04-14 16:33:28
+47756569,"Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",entertainment,152,39,cvrajeesh,2026-04-14 16:33:29
+47756036,Visualizing CPU Pipelining (2024),worldnews,83,10,flipacholas,2026-04-14 16:33:30
+47755209,B-trees and database indexes (2024),technology,108,40,tosh,2026-04-14 16:33:32
+47761825,Roblox devs now need a subscription to share their games freely,sports,55,58,hallole,2026-04-14 16:33:33
+47750872,Servo is now available on crates.io,technology,452,146,ffin,2026-04-14 16:33:34
+47761371,Bear Roll – Daily roll of Bear Blog's top posts,technology,5,0,freediver,2026-04-14 16:33:36
+47760027,The Journal of C Language Translation,science,24,1,kristianp,2026-04-14 16:33:37
+47752466,MEMS Array Chip Can Project Video the Size of a Grain of Sand,technology,86,41,bookofjoe,2026-04-14 16:33:39
+47761613,UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism,entertainment,8,1,matt_d,2026-04-14 16:33:40
+47751621,Initial mainline video capture and camera support for Rockchip RK3588,technology,85,24,mfilion,2026-04-14 16:33:41
+47715256,Tool to explore regularly sampled time series,entertainment,16,0,rsva,2026-04-14 16:33:43
+47728192,"If you started a company two years ago, many assumptions are no longer true",worldnews,190,138,tie-in,2026-04-14 16:33:44
+47729694,Introduction to Obsidian,sports,180,130,bryanhogan,2026-04-14 16:33:46
+47761892,"Show HN: Pushduck – S3 uploads that run on Cloudflare Workers, no AWS SDK",technology,4,3,abhay_ramesh,2026-04-14 16:33:47
+47759416,Why it’s impossible to measure England’s coastline,science,31,28,BiraIgnacio,2026-04-14 16:33:49
+47746610,All elementary functions from a single binary operator,worldnews,820,265,pizza,2026-04-14 16:33:50
+47759292,The AI revolution in math has arrived,technology,85,47,sonabinu,2026-04-14 16:33:51
+47751936,"Microsoft isn't removing Copilot from Windows 11, it's just renaming it",sports,353,266,bundie,2026-04-14 16:33:53
+47757469,We need Post-Quantum Cryptography more than ever,science,20,0,ethanhawksley,2026-04-14 16:33:54
+47754379,"The Future of Everything Is Lies, I Guess: Safety",entertainment,306,170,aphyr,2026-04-14 16:33:55
+47756876,Just Enough Chimera Linux,worldnews,60,18,speckx,2026-04-14 16:33:57
+47755604,Tax Wrapped 2025,sports,120,62,entrapi,2026-04-14 16:33:58
+47752884,This year’s insane timeline of hacks,science,318,182,laurex,2026-04-14 16:34:00
+47744255,I ran Gemma 4 as a local model in Codex CLI,technology,262,108,dvaughan,2026-04-14 16:34:01
+47755573,New Orleans's Car-Crash Conspiracy,entertainment,110,65,Geekette,2026-04-14 16:34:03
+47760750,Sometimes powerful people just do dumb shit,worldnews,210,124,zdw,2026-04-14 16:34:04
+47757426,Ascending into the Realm of Japanese Charts,sports,58,2,speckx,2026-04-14 16:34:05
+47733217,Exploiting the most prominent AI agent benchmarks,technology,579,140,Anon84,2026-04-14 16:34:07
+47754179,Claude Code may be burning your limits with invisible tokens,technology,44,5,jenic_,2026-04-14 16:34:08
+47750821,Michigan 'digital age' bills pulled after privacy concerns raised,technology,216,124,iamnothere,2026-04-14 16:34:10
+47757013,Verification Debt Is Your Next Headache,science,20,1,speckx,2026-04-14 16:34:11
+47748064,The economics of software teams: Why most engineering orgs are flying blind,technology,401,275,kiyanwang,2026-04-14 16:34:13
+47761720,"Microsoft exec suggests AI agents will need to buy licenses, just like employees",technology,16,6,maxloh,2026-04-14 16:34:14
+47746577,State of Homelab 2026,entertainment,109,93,swq115,2026-04-14 16:34:17
+47761105,Google has a secret reference desk,worldnews,20,5,maxutility,2026-04-14 16:34:19
+47741953,EasyPost (YC S13) Is Hiring,sports,1,0,jstreebin,2026-04-14 16:34:20
+47741701,DIY Soft Drinks,science,712,224,_Microft,2026-04-14 16:34:22
+47738827,Bring Back Idiomatic Design (2023),entertainment,675,368,phil294,2026-04-14 16:34:24
+47754100,Who's Been Impersonating This ProPublica Reporter?,worldnews,116,2,hn_acker,2026-04-14 16:34:26
+47739313,Seven countries now generate nearly all their electricity from renewables (2024),sports,655,469,mpweiher,2026-04-14 16:34:27
+47755734,"In Denmark, the spread of solar panels has become a divisive issue",science,77,170,PaulHoule,2026-04-14 16:34:30
+47757552,Show HN: Continual Learning with .md,entertainment,26,24,wenhan_zhou,2026-04-14 16:34:31
+47738094,JVM Options Explorer,worldnews,218,113,0x54MUR41,2026-04-14 16:34:33
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,507,289,a-ve,2026-04-14 16:34:34
+47745284,Taking on CUDA with ROCm: 'One Step After Another',sports,258,194,mindcrime,2026-04-14 16:34:36
+47737292,Is math big or small?,science,83,29,robinhouston,2026-04-14 16:34:37
+47739260,Pro Max 5x quota exhausted in 1.5 hours despite moderate usage,worldnews,732,647,cmaster11,2026-04-14 16:34:38
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),sports,129,38,radeeyate,2026-04-14 16:34:40
+47702887,Most people can't juggle one ball,science,500,171,surprisetalk,2026-04-14 16:34:42
+47759428,Tom7: No one can force me to have a secure website [video],entertainment,48,9,Audiophilip,2026-04-14 16:34:44
+47724352,Filing the corners off my MacBooks,entertainment,1397,669,normanvalentine,2026-04-14 16:34:45
+47741527,Ask HN: What Are You Working On? (April 2026),worldnews,325,1102,david927,2026-04-14 16:34:47
+47737876,"Doom, Played over Curl",sports,119,31,creaktive,2026-04-14 16:34:50
+47744132,Uncharted island soon to appear on nautical charts,science,100,51,tannhaeuser,2026-04-14 16:34:53
+47756448,Probing the Planck scale with quantum computation,worldnews,10,1,haxiomic,2026-04-14 16:34:54
+47762272,"Linux 7.0 Released with New Hardware Support, Optimizations and Self-Healing XFS",worldnews,17,0,isaacfrond,2026-04-14 16:34:56
+47736476,Anthropic downgraded cache TTL on March 6th,sports,545,418,lsdmtme,2026-04-14 16:34:57
+47737542,Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets,science,110,14,mpweiher,2026-04-14 16:35:02
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,53,0,mooreds,2026-04-14 16:35:04
+47760781,"Municipal water fluoridation, adolescent IQ and cognition across the life course",sports,14,1,cpncrunch,2026-04-14 16:35:05
+47743628,The peril of laziness lost,science,464,142,gpm,2026-04-14 16:35:08
+47758453,Your Favorite Movies Were CIA Propaganda [video],entertainment,31,2,joe_mamba,2026-04-14 16:35:11
+47743096,"Zed, A sans for the needs of 21st century (2024)",worldnews,55,22,yurivish,2026-04-14 16:35:12
+47759433,Kiro CLI 2.0,sports,15,0,salkahfi,2026-04-14 16:35:14
+47738343,The Physics of GPS,science,161,35,maouida,2026-04-14 16:35:15
+47735535,The End of Eleventy,entertainment,224,186,ValentineC,2026-04-14 16:35:18
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,240,101,Rochus,2026-04-14 16:35:19
+47728879,Mark's Magic Multiply,worldnews,56,9,luu,2026-04-14 16:35:22
+47717690,Cooperative Vectors Introduction,sports,51,3,JasperBekkers,2026-04-14 16:35:25
+47743730,"Google removes ""Doki Doki Literature Club"" from Google Play",science,514,287,super256,2026-04-14 16:35:26
+47706423,An Interview with Pat Gelsinger,worldnews,109,72,zdw,2026-04-14 16:35:28
+47719740,1D Chess,sports,987,174,burnt-resistor,2026-04-14 16:35:30
+47757838,"Claude is getting worse, according to Claude",science,27,11,lschueller,2026-04-14 16:35:37
+47730712,The Problem That Built an Industry,entertainment,148,49,ShaggyHotDog,2026-04-14 16:35:41
+47732020,Small models also found the vulnerabilities that Mythos found,worldnews,1268,340,dominicq,2026-04-14 16:35:44
+47754480,From Pal to Verilog: Writing the A4092 Logic from Scratch,sports,6,0,freediver,2026-04-14 16:35:45
+47759989,I built my business on Instagram. It disappeared overnight,science,8,0,gscott,2026-04-14 16:35:47
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,sports,625,152,iceberger2001,2026-04-14 16:35:50
+47694064,Every plane you see in the sky – you can now follow it from the cockpit in 3D,entertainment,390,73,coolwulf,2026-04-14 16:35:51
+47737376,Phyphox – Physical Experiments Using a Smartphone,science,254,39,_Microft,2026-04-14 16:35:54
+47756231,New Mexico governor signs nation's first universal child care law,worldnews,27,12,eatonphil,2026-04-14 16:35:57
+47731838,Keeping a Postgres Queue Healthy,entertainment,116,28,tanelpoder,2026-04-14 16:35:58
+47691730,I ported Mac OS X to the Nintendo Wii,worldnews,1918,328,blkhp19,2026-04-14 16:36:01
+47742461,IrDA,sports,37,7,Sniffnoy,2026-04-14 16:36:04
+47758651,Blurry iPhone Text Picture Problem: Is There an Easy Solution I'm Missing?,science,18,4,andy99,2026-04-14 16:36:08
+47706560,A Tour of Oodi,entertainment,173,45,zdw,2026-04-14 16:36:12
